@@ -1,13 +1,12 @@
-# FIFA2017_Erlang_Project
-Soccer simulation based on Erlang language 
+# FIFA2017
+
+Distributed soccer simulation. Erlang based.
+
+## Project screenshot
 
 ![alt text](https://github.com/danpora/FIFA2017/blob/master/media/fifa2017_start_position.jpg)
 
 ![alt text](https://github.com/danpora/FIFA2017/blob/master/media/fifa2017_midfield.jpg)
-
-# FIFA2017
-
-Distributed soccer simulation. Erlang based.
 
 ## Getting Started
 
