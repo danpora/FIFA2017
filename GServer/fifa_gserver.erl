@@ -56,7 +56,7 @@ do_init(Server) ->
     Button = wxToggleButton:new(Panel, 11, "", [{style, ?wxNO_BORDER}]),
     wxToggleButton:connect(Button, command_togglebutton_clicked),
 
-    StartButton = wxButton:new(Panel, 21, [{label,"Top Aligned"}, {size, {-1, 50}},{style,?wxBU_TOP}]),
+    StartButton = wxButton:new(Panel, 21, [{label,"Start"}, {size, {-1, 25}},{style,?wxBU_TOP}]),
     wxButton:connect(StartButton, command_button_clicked),
 
     OnPaint = fun(_Evt, _Obj) ->
