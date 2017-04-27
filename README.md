@@ -4,7 +4,7 @@ Distributed soccer simulation. Erlang based.
 
 ## Project screenshot
 
-![alt text](https://github.com/danpora/FIFA2017/blob/master/media/fifa2017_start_position.jpg)
+![adsf](https://github.com/danpora/FIFA2017/blob/master/media/fifa2017_start_position.jpg)
 
 ![alt text](https://github.com/danpora/FIFA2017/blob/master/media/fifa2017_midfield.jpg)
 
